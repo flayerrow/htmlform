@@ -1,0 +1,16 @@
+label{
+  background-color:blue;
+  color: white;
+  text-decoration:inherit;
+
+}
+input{
+  style:placeholder;
+}
+img{
+  width: 800;
+  height:900;
+}
+p{
+  border-color:blue;
+}
